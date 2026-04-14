@@ -4,10 +4,10 @@
       <b>
         Hello There!
       <br>
-        I'm Manzoor, a coding enthusiast. I like History and Mangoes, but I don't like Apples.
+        I'm Manzoor, a Senior Googler, Junior Everything Else. I like History and Mangoes, but I don't like Apples.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=810&height=45&lines=embedded+systems,+functional+safety,+firmware,+rtos,+ci/cd,+automation">
+        <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=810&height=45&lines=Open+source,+functional+safety,+kubernetes,+devops,+firmware,+rtos,+automation">
       <br>
       <b>
         ~ Manzoor Ambekar ~
