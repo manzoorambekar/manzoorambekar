@@ -18,7 +18,7 @@
 
 <p align="center">
   <samp>
-    [<a href="manzoorambekar@gmail.com">email</a>]
+    [<a href="manzoorambekar4@gmail.com">email</a>]
     [<a href="https://linkedin.com/in/manzoorambekar">linkedin</a>]
     [<a href="https://instagram.com/the.antisocial.one">instagram</a>]
     [<a href="https://www.xing.com/profile/manzoor_ambekar">xing</a>]
