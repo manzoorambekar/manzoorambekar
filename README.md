@@ -33,3 +33,5 @@
 | `mimo-ber-optimization` | Project for the simulation of complex systems to understand Lagrangian Optimization | C++, C-XSC Library, Lagrangian Optimization  |
 | `learning-vhdl` | Practice programs and exercises to learn VHDL | VHDL, ModelSim, FPGA Synthesis  |
 | `pulse-oximetry-analysis` | Data analysis and signal processing on pulse oximetry readings, including algorithms for extracting SpO₂ and heart rate from raw sensor data | MATLAB, Signal Processing, Spectrograms |
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manzoorambekar&label=Profile%20views&color=0e75b6&style=flat" alt="manzoorambekar" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manzoorambekar&" alt="manzoorambekar" /></p>
